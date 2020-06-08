@@ -3,7 +3,7 @@
 # Descrição do projeto
 
 ## Introdução
-- Desenvolvimento da aplicação Ecoleta, apresentada na NLW #01 da rocketseat, que tem como o intuito facilitar a coleta de materiais e resíduos através do mapeamento de locais. Sendo assim sua aplicação web responsavél pelo cadastro de locais para coleta e a mobile por visualizar locais próximos que realizam coletas.
+- Desenvolvimento da aplicação Ecoleta, apresentada na NLW #01 da rocketseat, que tem como o intuito facilitar a coleta de objetos através do mapeamento de locais. Sendo assim, sua aplicação web é responsável pelo cadastro de locais de coleta e a mobile pela visualização locais próximos cadastrados.
 
 ## Tecnologias
 
